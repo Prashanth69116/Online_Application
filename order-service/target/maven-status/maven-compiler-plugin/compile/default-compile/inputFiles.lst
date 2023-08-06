@@ -1,0 +1,10 @@
+F:\Prashanth Project\GitLocalRepositories\Online_Application\order-service\src\main\java\com\onlineApplication\orderservice\OrderServiceApplication.java
+F:\Prashanth Project\GitLocalRepositories\Online_Application\order-service\src\main\java\com\onlineApplication\orderservice\repository\OrderRepository.java
+F:\Prashanth Project\GitLocalRepositories\Online_Application\order-service\src\main\java\com\onlineApplication\orderservice\controller\OrderController.java
+F:\Prashanth Project\GitLocalRepositories\Online_Application\order-service\src\main\java\com\onlineApplication\orderservice\service\OrderService.java
+F:\Prashanth Project\GitLocalRepositories\Online_Application\order-service\src\main\java\com\onlineApplication\orderservice\dto\OrderRequest.java
+F:\Prashanth Project\GitLocalRepositories\Online_Application\order-service\src\main\java\com\onlineApplication\orderservice\config\WebClientConfig.java
+F:\Prashanth Project\GitLocalRepositories\Online_Application\order-service\src\main\java\com\onlineApplication\orderservice\dto\InventoryResponse.java
+F:\Prashanth Project\GitLocalRepositories\Online_Application\order-service\src\main\java\com\onlineApplication\orderservice\model\Order.java
+F:\Prashanth Project\GitLocalRepositories\Online_Application\order-service\src\main\java\com\onlineApplication\orderservice\model\OrderLineItems.java
+F:\Prashanth Project\GitLocalRepositories\Online_Application\order-service\src\main\java\com\onlineApplication\orderservice\dto\OrderLineItemsDto.java
